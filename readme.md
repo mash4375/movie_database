@@ -1,11 +1,5 @@
 ## Binary Search Trees and Linked Lists
 
-
-### Header
-* Matthew Shaw
-* Movie Database Implementation
-
-
 ### Description
 This program simulates a movie rental database using a binary search tree for the first letter of the movie that points to a linked list that hold the movies in alphbetical order.
 
