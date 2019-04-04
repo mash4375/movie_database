@@ -1,7 +1,5 @@
 //
 //  MovieTree.hpp
-//  Assignment-6    
-//  CSCI 2270
 //
 
 #ifndef MOVIETREE_H
