@@ -1,6 +1,5 @@
 //
 // Matthew Shaw
-// Assignment 3
 //
 //
 //
